@@ -22,7 +22,7 @@ For more installation options or different languages, this [link](https://develo
 
 ## Solving linear programming Problems with OR-Tools
 
-OR-Tools provides a wrapper (MPSolver) to use different solvers, including GLOP. Below is the list of LP solvers available in OR-Tolls:
+OR-Tools provides a wrapper (MPSolver) to use different solvers, including GLOP. Below is the list of LP solvers available in OR-Tools:
 
 * Clp 
 * CPLEX
@@ -35,4 +35,5 @@ OR-Tools provides a wrapper (MPSolver) to use different solvers, including GLOP.
 Some solvers implement the Simplex Algorithm, while others implement Interior-Point or First-order methods. For further information about it, check the following [link](https://developers.google.com/optimization/lp/lp_advanced).
 
 ## Examples
+
 
