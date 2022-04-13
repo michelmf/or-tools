@@ -36,7 +36,7 @@ Some solvers implement the Simplex Algorithm, while others implement Interior-Po
 
 ## Examples
 
-Here some examples to understand the or-tools syntax. The notebooks and examples are written in portuguese. 
+Here some examples to understand the or-tools syntax to tackle LP problems. The notebooks and examples are written in portuguese. 
 
 * example1.ipynb - First example showing how to solve a simple linear programming problem with two variables using GLOP and the Graphical Method.
 * example2.ipynb - Classic optimization example where one needs to maximize the profit with furniture sales by choosing the best combination of each product.
@@ -52,3 +52,8 @@ To run the examples/notebooks, one needs the following packages:
 * matplotlib
 * plotly
 
+## References
+
+* Official website: https://developers.google.com/optimization
+* OR-Tools project: https://github.com/google/or-tools#codemap
+* GLOP Source Code: https://github.com/google/or-tools/tree/stable/ortools/glop
