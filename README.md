@@ -6,7 +6,7 @@ Assignment for the Linear Programming class @ CEFET/PPCIC. This assignment aims 
 
 From the official [website](https://developers.google.com/optimization): 
 
-> OR-Tools is an open-source software suite for optimization, tuned for tackling the world's most challenging problems in [vehicle routing](https://developers.google.com/optimization/routing), [flows](https://developers.google.com/optimization/flow), [integer and linear programming](https://developers.google.com/optimization/lp), and [constraint programming]().
+> OR-Tools is an open-source software suite for optimization, tuned for tackling the world's most challenging problems in [vehicle routing](https://developers.google.com/optimization/routing), [flows](https://developers.google.com/optimization/flow), [integer and linear programming](https://developers.google.com/optimization/lp), and [constraint programming](https://developers.google.com/optimization/cp).
 >
 > After modeling your problem in the programming language of your choice, you can use a half dozen solvers to solve it: commercial solvers such as Gurobi or CPLEX, or open-source solvers such as SCIP, GLPK, or Google's GLOP and award-winning CP-SAT.
 
