@@ -2,6 +2,8 @@
 
 Assignment for the Linear Programming class @ CEFET/PPCIC. This assignment aims to present a numerical solver and how to use it to tackle small and medium-size problems. 
 
+A presentation (in Portuguese) is available [here](https://docs.google.com/presentation/d/13VRn9BIcb1DGj4Ge2SD6hRfQt3R6Onlu/edit?usp=sharing&ouid=102080984866782397561&rtpof=true&sd=true).
+
 ## About OR-Tools
 
 From the official [website](https://developers.google.com/optimization): 
