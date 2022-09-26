@@ -1,9 +1,3 @@
----
-noteId: "fbdcd450ec1311ec9aadc5e1ccc0d072"
-tags: []
-
----
-
 # OR-Tools - Assignment
 
 Assignment for the Linear Programming class @ CEFET/PPCIC. This assignment aims to present a numerical solver and how to use it to tackle small and medium-size problems. 
